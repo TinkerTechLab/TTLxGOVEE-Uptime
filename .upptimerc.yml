@@ -8,7 +8,7 @@ sites:
   - name: WebAPI Dashboard
     url: https://govee.tinkertechlab.com/login
   - name: Documentation
-    url: https://govee.docs.tinkertechlab.com
+    url: https://goveedocs.tinkertechlab.com
   - name: Uptime Status Page
     url: https://status.govee.tinkertechlab.com
 
