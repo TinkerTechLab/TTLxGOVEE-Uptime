@@ -1,7 +1,7 @@
 url: https://govee.tinkertechlab.com/login
-status: down
-code: 429
-responseTime: 19
-lastUpdated: 2024-10-27T23:13:08.613Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2024-10-28T01:53:19.551Z
 startTime: 2024-03-25T01:45:03.273Z
 generator: Upptime <https://github.com/upptime/upptime>
