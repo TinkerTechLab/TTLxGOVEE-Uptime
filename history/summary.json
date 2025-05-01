@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.61%",
-    "time": 655,
-    "timeDay": 446,
-    "timeWeek": 527,
-    "timeMonth": 821,
+    "time": 654,
+    "timeDay": 545,
+    "timeWeek": 519,
+    "timeMonth": 833,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2025-04-02": 25,
@@ -37,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 467,
-    "timeDay": 123,
-    "timeWeek": 178,
-    "timeMonth": 239,
-    "timeYear": 470,
+    "time": 466,
+    "timeDay": 148,
+    "timeWeek": 168,
+    "timeMonth": 243,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2025-03-28": 16,
       "2025-03-27": 66,
@@ -66,10 +66,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 84,
-    "timeWeek": 126,
-    "timeMonth": 147,
-    "timeYear": 164,
+    "timeDay": 164,
+    "timeWeek": 140,
+    "timeMonth": 150,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -78,11 +78,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.govee.tinkertechlab.com.ico",
     "slug": "uptime-status-page",
     "status": "down",
-    "uptime": "68.21%",
+    "uptime": "68.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.93%",
+    "uptimeYear": "75.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -178,8 +178,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
